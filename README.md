@@ -6,7 +6,7 @@ The project uses polling unit results, geographical coordinates, and spatial ana
 
 ---
 
-## 📌 Project Objectives
+##  Project Objectives
 
 The main objective is to understand how electoral results vary geographically across Plateau State.
 
@@ -25,7 +25,7 @@ The analysis focuses on:
 
 ---
 
-## 🔎 Research Questions
+##  Research Questions
 
 The project addresses the following questions:
 
@@ -42,7 +42,7 @@ The project addresses the following questions:
 
 ---
 
-# 🛠️ Methodology
+#  Methodology
 
 The project follows a multi-stage analytical workflow.
 
@@ -114,7 +114,7 @@ This allows the project to analyze:
 
 ---
 
-# 📊 Electoral Analysis
+#  Electoral Analysis
 
 ## Voter Participation
 
